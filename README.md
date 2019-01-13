@@ -1,1 +1,2 @@
 # learnGitt
+#learn first
